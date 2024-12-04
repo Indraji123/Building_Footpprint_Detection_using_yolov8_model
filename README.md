@@ -4,5 +4,5 @@ The YOLOv8 segmentation model (yolov8s-seg.pt) was trained on the processed data
 
 This project demonstrates the effectiveness of YOLOv8 in geospatial tasks, providing a robust solution for building footprint detection in urban planning, disaster management, and similar applications.
 
-output:-
+
 ![buildings](https://github.com/user-attachments/assets/1b4f160f-2beb-48aa-9804-bd38bb8b54b3)
